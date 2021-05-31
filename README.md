@@ -3,9 +3,9 @@
 2. run command - node app
 
 ![Test Image 4](https://github.com/rawaniharsh/Mern-Stack-Crud-APP-frontend/blob/main/screenshots/Screenshot3.png)
-![Test Image 4](https://github.com/rawaniharsh/Mern-Stack-Crud-APP-frontend/blob/main/screenshots/Screenshot2.png)
-![Test Image 4](https://github.com/rawaniharsh/Mern-Stack-Crud-APP-frontend/blob/main/screenshots/Screenshot1.png)
-![Test Image 4](https://github.com/rawaniharsh/Mern-Stack-Crud-APP-frontend/blob/main/screenshots/Screenshot4.png)
+![Test Image 5](https://github.com/rawaniharsh/Mern-Stack-Crud-APP-frontend/blob/main/screenshots/screenshot1.png)
+![Test Image 6](https://github.com/rawaniharsh/Mern-Stack-Crud-APP-frontend/blob/main/screenshots/Screenshot1.png)
+![Test Image 7](https://github.com/rawaniharsh/Mern-Stack-Crud-APP-frontend/blob/main/screenshots/Screenshot4.png)
 
 
 # Getting Started with Create React App
