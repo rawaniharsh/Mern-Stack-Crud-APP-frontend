@@ -1,3 +1,9 @@
+##To run this project, do following things:
+1. run command - npm install
+2. run command - node app
+
+![Test Image 4](https://github.com/rawaniharsh/Mern-Stack-Crud-APP-frontend/blob/main/screenshots/Screenshot3.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
